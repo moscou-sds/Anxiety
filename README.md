@@ -3,7 +3,7 @@
 ### Idea
 Help people with panic, anxiety, fear in certain situations when they do not have a person from their family circle nearby.
 
-### Functioning
+### Use
 An emergency button that when the person (x) press it immediately calls the contacts entered in the application, at the same time the real-time location of the person (x) is sent to the contacts application.
 Also when the person (x) presses the emergency button, a customizable audio will begin to play, to try to relax and reassure the person.
 When a contact answers the emergency signal, a call will be made to be able to speak to the person (x). The first person whoever responds to the signal will be the one who makes the call, the other contacts will not be allowed to enter the call, but will notify them that a contact is already in communication.
